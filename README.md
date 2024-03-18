@@ -9,7 +9,7 @@
 
 <br><br>
 
-## Tecnologias:
+## Technologies:
 <div style="display: inline_block">
   <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -22,7 +22,7 @@
 <br><br>
 <br><br>
 
-## Atualmente estou me aprofundando em:
+## I'm currently delving into:
 <div style="display: inline_block">
   <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
   <img height="100em" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
@@ -30,9 +30,9 @@
 
 <br><br>
 
-# Contato:
-  E aí? Vamos trabalhar juntos?!
-  Entre em contato:
+# Contact:
+  And there? Let's work together?!<br>
+  Contact:
   <br>
   <a href="mailto:anthoniusmiguel@gmail.com">
   	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
