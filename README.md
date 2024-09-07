@@ -4,6 +4,8 @@
   <a href="https://github.com/anthoniusdev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthoniusdev&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthoniusdev&layout=compact&langs_count=16&theme=dark">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anthoniusdev&theme=dark">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthoniusdev&theme=dark">
   </a>
 </div>
 
