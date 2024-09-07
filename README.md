@@ -17,6 +17,9 @@
   <img height="100em" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
   <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+  <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+  <img height="100em" align="center" src="https://reactnative.dev/img/header_logo.svg" />
+  <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>          
   
 <br><br>
@@ -24,8 +27,9 @@
 
 ## I'm currently delving into:
 <div style="display: inline_block">
-  <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
   <img height="100em" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img height="100em" align="center" src="https://reactnative.dev/img/header_logo.svg" />
+  <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
 
 <br><br>
