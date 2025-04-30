@@ -22,6 +22,7 @@
   <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
   <img height="100em" align="center" src="https://reactnative.dev/img/header_logo.svg" />
   <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img height="100em" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
 </div>          
   
 <br><br>
@@ -29,8 +30,7 @@
 
 ## I'm currently delving into:
 <div style="display: inline_block">
-  <img height="100em" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img height="100em" align="center" src="https://reactnative.dev/img/header_logo.svg" />
+  <img height="100em" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
   <img height="100em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
 </div>
 
